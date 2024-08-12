@@ -3,3 +3,5 @@ data/.ipynb_checkpoints/
 .virtual_documents/ 
 img/
 img.html
+/mp3
+*.mp3
